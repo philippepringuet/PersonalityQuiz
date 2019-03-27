@@ -28,6 +28,7 @@
 		6DC03D8B22366A8300E9F295 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		6DC03D8D22366ABC00E9F295 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 		6DC03D8F223670BB00E9F295 /* QuestionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionData.swift; sourceTree = "<group>"; };
+		6DC03D91224B701900E9F295 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 				6DC03D80223644A400E9F295 /* Assets.xcassets */,
 				6DC03D82223644A400E9F295 /* LaunchScreen.storyboard */,
 				6DC03D85223644A400E9F295 /* Info.plist */,
+				6DC03D91224B701900E9F295 /* README.md */,
 			);
 			path = PersonalityQuiz;
 			sourceTree = "<group>";
